@@ -1,0 +1,22 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "Test react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davodza2689/Test-React.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "David",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davodza2689/Test-React/issues"
+  },
+  "homepage": "https://github.com/davodza2689/Test-React#readme"
+}
