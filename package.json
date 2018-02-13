@@ -4,6 +4,7 @@
   "description": "Test react",
   "main": "index.js",
   "scripts": {
+    "lint": "eslint ./src",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,5 +19,12 @@
   "bugs": {
     "url": "https://github.com/davodza2689/Test-React/issues"
   },
-  "homepage": "https://github.com/davodza2689/Test-React#readme"
+  "homepage": "https://github.com/davodza2689/Test-React#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.17.0",
+    "webpack": "^3.11.0"
+  }
 }
